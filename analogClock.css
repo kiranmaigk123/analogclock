@@ -1,17 +1,18 @@
-/* body {
+body {
     width: 100vw;
     height: 100vh;
-} */
+}
 
 img {
     width: 400px;
     height: 400px;
-    position: relative;
-    top: 20%;
-    left: 20%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
-#head {
+/* #head {
     width: 400px;
     height: 400px;
     border-radius: 50%;
@@ -19,7 +20,7 @@ img {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-}
+} */
 
 #seconds {
     width: 4px;

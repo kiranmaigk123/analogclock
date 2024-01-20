@@ -6,9 +6,11 @@ body {
 img {
     width: 400px;
     height: 400px;
+    top: 50%;
+    left: 50%;
     position: absolute;
-    top: 40%;
-    left: 40%;
+    transform: translate(-50%, -50%);
+
 }
 
 /* #head {

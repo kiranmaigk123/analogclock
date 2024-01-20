@@ -6,7 +6,7 @@ body {
 img {
     width: 400px;
     height: 400px;
-    position: absolute;
+    position: relative;
     top: 30%;
     left: 30%;
     transform: translate(-50%, -50%);

@@ -1,15 +1,15 @@
-body {
-    width: 100vw;
-    height: 100vh;
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
 }
-
 img {
     width: 400px;
     height: 400px;
     position: absolute;
 
-    top: 8%;
-    left: 26%;
+    top: 16%;
+    left: 34%;
 
 }
 
